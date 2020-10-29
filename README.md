@@ -16,10 +16,10 @@
 이미지를 클릭하시면 영상을 볼 수 있습니다.
 (https://www.youtube.com/watch?v=sqvoI1b5tx0)
 ```
-[![Video Label](https://img.youtube.com/vi/40c5HzLNzO8&feature=youtu.be&t=0s/0.jpg)](https://www.youtu.be/40c5HzLNzO8)
+[![Video Label](http://img.youtube.com/vi/4Wl7cpB9ulw/0.jpg)](https://youtu.be/4Wl7cpB9ulw?t=0s)
 ```
 이미지를 클릭하시면 영상을 볼 수 있습니다.
-(https://www.youtu.be/40c5HzLNzO8)
+(https://youtu.be/4Wl7cpB9ulw?t=0s)
 ```
 ## 사용 기술
 - backend(spring, node.js, mybatis, mysql)
