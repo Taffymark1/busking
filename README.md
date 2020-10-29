@@ -16,7 +16,11 @@
 이미지를 클릭하시면 영상을 볼 수 있습니다.
 (https://www.youtube.com/watch?v=sqvoI1b5tx0)
 ```
-
+[![Video Label](https://img.youtube.com/vi/40c5HzLNzO8&feature=youtu.be&t=0s/0.jpg)](https://www.youtube.com/watch?v=40c5HzLNzO8&feature=youtu.be&t=0s)
+```
+이미지를 클릭하시면 영상을 볼 수 있습니다.
+(https://www.youtube.com/watch?v=40c5HzLNzO8&feature=youtu.be&t=0s)
+```
 ## 사용 기술
 - backend(spring, node.js, mybatis, mysql)
 - frontend(jsp, jQuery, html/css/javascript, d3.js, daum map, openweathermap 등 여러 api)
@@ -65,7 +69,13 @@
 
 ### 소감
 ```
-생각했던대로 잘된부분도있고 생각했던것보다 못했던부분도 보여서 나에겐 무엇을 더 공부하면될지 알수있게된 보람찬 프로젝트였다고 생각합니다
+이 프로젝트는 내가 spring을 배우고 이용한 첫 프로젝트이면서, 제대로 된 웹사이트를 만들게되는 규모가 큰 프로젝트였다.
+처음엔 '이 이원수의 팀원으로 한달안에 개발이 가능할까?' 라는 막연한 두려움도 있었다. 지금생각해보면 다른팀원에 비해 약간 부족한 내 역량때문인거 같았다.
+하지만 프로젝트 회의에 들어가면서 서로가 의견을 제시하고 조율하고 맞춰가는 과정에서 
+'우리가 이대로만 만들수있다면 정말 좋은 결과물이 나오겠다' 라고 생각하게되면서 자신감과 하고자하는 의욕이 붙타올랐다.
+처음써보는 api, 하나둘씩 완성되가는 퍼블리싱과 백엔드 기능들, 서로가 만든 기능들을 합쳐보면서 생기는 변수를 해결하고, 결과물을완성해 나갔다.
+프로젝트를 완성한후의 성취감은 말로 표현할수없을만큼 기뻣고 후련했다. 이번 경험을 토대로 느낀건 '나도 할 수 있다' 라는 자신감.
+개발을 하면서 재미를 느꼈다. 다음 개발에는 무엇을 사용할지 기대가 되기도한다.
 ```
 
 
