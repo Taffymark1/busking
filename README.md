@@ -16,10 +16,10 @@
 이미지를 클릭하시면 영상을 볼 수 있습니다.
 (https://www.youtube.com/watch?v=sqvoI1b5tx0)
 ```
-[![Video Label](https://img.youtube.com/vi/40c5HzLNzO8&feature=youtu.be&t=0s/0.jpg)](https://www.youtube.com/watch?v=40c5HzLNzO8&feature=youtu.be&t=0s)
+[![Video Label](https://img.youtube.com/vi/40c5HzLNzO8&feature=youtu.be&t=0s/0.jpg)](https://www.youtu.be/40c5HzLNzO8)
 ```
 이미지를 클릭하시면 영상을 볼 수 있습니다.
-(https://www.youtube.com/watch?v=40c5HzLNzO8&feature=youtu.be&t=0s)
+(https://www.youtu.be/40c5HzLNzO8)
 ```
 ## 사용 기술
 - backend(spring, node.js, mybatis, mysql)
